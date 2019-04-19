@@ -1,0 +1,43 @@
+.body{
+	background:grey;
+	min-width:900px;
+	padding-left:5%;
+	padding-right:5%;
+}
+.adddiv{
+	padding-left:25%;
+	padding-bottom:5%;
+}
+.addh{
+	border-style:outset; 
+	box-shadow:3px 3px;
+	border-width:2px;
+	outline:none;
+	border-radius:10px;
+}
+
+.hiimage{
+	width:30%;
+	float:left;
+	border-radius:10px;
+}
+image{
+	border-radius:10px;
+	max-width:95%;
+	max-height:95%;
+	min-width:95%;
+	min-height:95%;
+}
+.detdiv{
+	padding-left:3%;
+	width:55%;
+	float:right;
+	height:270px;
+	background:white;
+	border-radius:10px;
+}
+
+.housed{
+	padding-bottom:5%;
+	height:300px;
+}

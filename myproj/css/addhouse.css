@@ -1,0 +1,15 @@
+.bod{
+	background:grey;
+	padding-left:20%;
+	padding-right:30%;
+	min-width:500px;
+	padding-top:5%;
+}
+.formc{
+	padding-top:5%;
+	padding-left:20%;
+	border-radius:10px;
+	border-style:outset;
+	border-color:black;
+	padding-bottom:5%;
+}

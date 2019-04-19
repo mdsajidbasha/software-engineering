@@ -1,0 +1,53 @@
+.bod{
+	user-select:none;
+	padding-left:30%;
+	padding-right:30%;
+	padding-top:5%;
+	min-width:300px;
+	background:url("../images/giffy.gif");
+}
+
+.searchinp{
+	border-radius:10px;
+	border-style:inset;
+	outline:none;
+	padding-left:1%;	
+}
+
+.topdiv{
+	height:20%;
+	padding-bottom:5%;
+}
+
+.searchok{
+	background:url("../images/searchbtn.png");
+	background-size:cover;
+	width:22px;
+	height:22px;
+	border-style:outset; 
+	box-shadow:3px 3px;
+	border-width:2px;
+	outline:none;
+	border-radius:10px;
+}
+
+.searchok:hover{
+	box-shadow:2px 2px;
+}
+
+.searchform{
+	border-style:inset; 
+	padding-left:30%;
+    padding-top:5%;
+	padding-bottom:5%;
+    border-width:3px;
+	background:white;
+}
+
+.topdivbut{
+	border-style:outset; 
+	box-shadow:3px 3px;
+	border-width:2px;
+	outline:none;
+	border-radius:10px;
+}
